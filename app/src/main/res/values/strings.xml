@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banyuwangi Tourism</string>
+    <string name="empty_data">No Data Found!!</string>
+    <string name="empty_internet">No Internet Connection, Please Check Your Internet!</string>
+    <string name="search">Where Do You Want To Go?</string>
+    <string name="name">Rio Adjie Wiguna</string>
+    <string name="email">rioadjie100301@gmail.com</string>
+</resources>
